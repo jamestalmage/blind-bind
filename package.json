@@ -1,6 +1,6 @@
 {
   "name": "blind-bind",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Bind arguments before you have the function",
   "license": "MIT",
   "repository": "jamestalmage/blind-bind",
