@@ -1,7 +1,7 @@
 {
   "name": "blind-bind",
   "version": "0.0.0",
-  "description": "My first-class module",
+  "description": "Bind arguments before you have the function",
   "license": "MIT",
   "repository": "jamestalmage/blind-bind",
   "author": {
@@ -19,7 +19,11 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "function",
+    "bind",
+    "arguments",
+    "args",
+    "bound"
   ],
   "dependencies": {},
   "devDependencies": {
